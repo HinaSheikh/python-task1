@@ -13,7 +13,7 @@ c=CharacterCount()
 c.inputchar("HELLO")
 count=c.countCharacter()
 if count!=None:
-    print("The no of character in string :",c.countCharacter())
+    print("The no of characters in string :",c.countCharacter())
 
 
                 

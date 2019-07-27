@@ -1,4 +1,4 @@
-number_list=[1, 2, -8, 0]
+number_list=[1, 2,  0]
 if number_list!=[]:
     smallest=number_list[0] 
     for index in range(len(number_list)):
